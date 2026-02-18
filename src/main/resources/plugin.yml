@@ -1,0 +1,5 @@
+name: BingoVoicechatManager
+version: '1.0'
+main: fun.kaituo.bingoVoicechatManager.BingoVoicechatManager
+api-version: '1.21'
+authors: [ APairOfMoons ]
